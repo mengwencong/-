@@ -1,0 +1,5 @@
+﻿  第五周课堂实验一渐变圆View.cpp
+c:\users\dell\documents\visual studio 2015\projects\第五周课堂实验一渐变圆\第五周课堂实验一渐变圆\第五周课堂实验一渐变圆view.cpp(116): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\dell\documents\visual studio 2015\projects\第五周课堂实验一渐变圆\第五周课堂实验一渐变圆\第五周课堂实验一渐变圆view.cpp(117): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  第五周课堂实验一渐变圆.vcxproj -> c:\users\dell\documents\visual studio 2015\Projects\第五周课堂实验一渐变圆\Debug\第五周课堂实验一渐变圆.exe
+  第五周课堂实验一渐变圆.vcxproj -> c:\users\dell\documents\visual studio 2015\Projects\第五周课堂实验一渐变圆\Debug\第五周课堂实验一渐变圆.pdb (Full PDB)
