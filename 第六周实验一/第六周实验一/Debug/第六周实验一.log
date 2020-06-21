@@ -1,0 +1,14 @@
+﻿  第六周实验一View.cpp
+c:\users\dell\documents\visual studio 2015\projects\第六周实验一\第六周实验一\第六周实验一view.cpp(127): error C2593: “operator +=”不明确
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\cstringt.h(1428): note: 可能是“ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>> &ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>::operator +=(const VARIANT &)”
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\cstringt.h(1420): note: 或  “ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>> &ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>::operator +=(char)”
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\cstringt.h(1413): note: 或  “ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>> &ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>::operator +=(unsigned char)”
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\cstringt.h(1401): note: 或  “ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>> &ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>::operator +=(wchar_t)”
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\cstringt.h(1393): note: 或  “ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>> &ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>::operator +=(const char *)”
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\cstringt.h(1378): note: 或  “ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>> &ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>::operator +=(const wchar_t *)”
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\cstringt.h(1364): note: 或  “ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>> &ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>::operator +=(const ATL::CSimpleStringT<wchar_t,true> &)”
+  c:\users\dell\documents\visual studio 2015\projects\第六周实验一\第六周实验一\第六周实验一view.cpp(127): note: 尝试匹配参数列表“(CString, UINT)”时
+  正在生成代码...
+  正在编译...
+  第六周实验一.cpp
+  正在生成代码...
