@@ -1,0 +1,5 @@
+﻿  第七周实验四View.cpp
+c:\users\dell\documents\visual studio 2015\projects\第七周实验四\第七周实验四\第七周实验四view.cpp(91): error C2059: 语法错误:“}”
+c:\users\dell\documents\visual studio 2015\projects\第七周实验四\第七周实验四\第七周实验四view.cpp(91): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+c:\users\dell\documents\visual studio 2015\projects\第七周实验四\第七周实验四\第七周实验四view.cpp(95): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\dell\documents\visual studio 2015\projects\第七周实验四\第七周实验四\第七周实验四view.cpp(95): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
