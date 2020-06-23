@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  w32.cpp
+c:\users\dell\documents\visual studio 2015\projects\s\s\w32.cpp(4): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  s.vcxproj -> c:\users\dell\documents\visual studio 2015\Projects\s\Debug\s.lib
